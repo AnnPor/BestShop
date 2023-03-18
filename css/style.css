@@ -1,4 +1,14 @@
 :root {
-  font-family: "Raleway", sans-serif;
-  font-family: "Open Sans", sans-serif;
+  --font-family-1: "Raleway", sans-serif;
+  --font-family-2: "Open Sans", sans-serif;
+  --font-size-primary: 16px;
+  --font-size-secondary: 11px;
+  --color-primary: #08a6e4;
+  --color-primary-shadow: rgba(7, 172, 230, 0.16);
+  --color-secondary: #fb3b64;
+  --color-green: #55dfb4;
+  --color-black: #000000;
+  --color-grey: #a5a5a5;
+  --color-light-grey: #f7f7f7;
+  --color-white: #ffffff;
 }
